@@ -37,8 +37,7 @@
 
 
 <div display="flex" justify-content=space-between align="center" >
-    
-[<img src="https://i.pinimg.com/originals/61/14/d7/6114d729ab7e68e19825c6a83d8d19c1.png"/>](https://www.instagram.com/sarkaristic9/)            [<img src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo.png"/>](https://www.linkedin.com/in/gauravsarkar7888/)    
+[<img src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo.png"/>](https://www.linkedin.com/in/gauravsarkar7888/)    
 </div>
 
  
