@@ -30,7 +30,7 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <div style=" display: flex; justify-content: space-between;">
-<p align="center"> <img src="https://img.icons8.com/color/56/000000/java-coffee-cup-logo--v2.png"/><img src="https://img.icons8.com/color/56/000000/python--v2.png"/> <img src="https://img.icons8.com/color/56/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/dusk/56/000000/html-5.png"/> <img src="https://img.icons8.com/dusk/56/000000/css3.png"/><img src="https://img.icons8.com/color/100/000000/javascript--v2.png"/ height="56px"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" height="48px"> <img src="https://img.icons8.com/color/56/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></p>
+<p align="center"> <img src="https://img.icons8.com/color/56/000000/java-coffee-cup-logo--v2.png"/><img src="https://img.icons8.com/color/56/000000/python--v2.png"/> <img src="https://img.icons8.com/color/56/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/100/000000/javascript--v2.png"/ height="56px"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" height="48px"> <img src="https://img.icons8.com/color/56/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></p>
     </div>
 <br>
 <h2 align="center">Connect with me:</h2>
