@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/68Ax041y7HkAAAAC/anime-cool.gif" align="center" style="width: 100%" width="300" length="300" />
 </div> 
 <br>
-    <img align="right" src="https://i.pinimg.com/originals/46/37/da/4637da8e7bb17e2a6b17f8d84205f9bd.gif" alt="Coder GIF" width="300">
+    
     
 <h1 align = "center"> I'm Interested in many things </h1>
 
